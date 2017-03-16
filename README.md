@@ -1,5 +1,6 @@
 LIGHT UP
 ===============
+*Game created by inspiration of World of Warcraft mini quest game of Shaman totems.*
 
 Game created with Java and libGDX framework. I started this project a long time ago, only after 1 week of learning Java . It ended up being created with only 2 classes (1 mega class :D) ...yet somehow I managed to do it. Looking at that now, I think it was too big project for me back then, with me literally lacking basics...
 In the end I managed to make it playable on Android and Desktop.
