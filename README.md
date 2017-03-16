@@ -28,3 +28,9 @@ Game  has 16 pre defined maps of 5x5 matrix Lights (Red and Green). Game rules a
 
 ![enter image description here](https://zapodaj.net/images/0b9adec50b275.png)
 
+----------
+
+
+**Completed Map:**
+
+![enter image description here](https://zapodaj.net/images/5808becb708de.png)
